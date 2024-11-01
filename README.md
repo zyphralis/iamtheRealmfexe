@@ -2,39 +2,44 @@
 
 ## About Me
 
-Hello! I'm Matthew, also known as zyphralis on Discord, and I’m a passionate tech enthusiast currently exploring the world of coding, technology, and IT. I enjoy learning new things about software, hardware, and everything in between. I’m particularly interested in experimenting with Discord bots, game development, and unique customization projects for mobile themes. My journey in tech is just beginning, but I'm excited to document and share what I create here on GitHub!
+Hello! I'm **Matthew**, also known as **zyphralis** on Discord, and I’m a passionate tech enthusiast currently exploring the world of coding, technology, and IT. I’m constantly driven to learn, experiment, and create. Whether it’s software, hardware, or something in between, I love diving into new tech. Here on my GitHub, you’ll find a blend of projects ranging from Discord bots and game development to customization projects for mobile devices. This is my journey, and I’m excited to share it with you!
 
 ## My Interests and Projects
 
-🌟 **IT and Tech Enthusiast** - I’m always eager to dive deep into technology, whether it’s understanding software, hardware, or networking. My goal is to continually expand my knowledge and explore different areas of the IT field.
+🌟 **IT and Tech Enthusiast**  
+I’m dedicated to broadening my knowledge in the IT field. From understanding the latest in software development to tweaking hardware settings, my curiosity keeps me exploring various tech disciplines. My ultimate goal is to develop a well-rounded skill set that combines practical knowledge with creativity.
 
-🎮 **Gaming and Game Development** - I enjoy playing various games on platforms like Roblox and working on gaming-related projects, from mods to server setups. I’m always on the lookout for ways to make gaming more fun and interactive.
+🤖 **Discord Bots and Servers**  
+Creating bots and customizing servers is a hobby I enjoy. I manage **Gamer's Lounge**, my own Discord server, and I’m also a Mod in **Screaming Girl’s server**. Here, I experiment with new bot features to make the server experience more interactive and enjoyable for the community.
 
-🤖 **Discord Bots and Servers** - I have a lot of fun building bots and customizing servers, like my own **Gamer's Lounge** Discord server. Currently, I'm also a Mod in **Screaming Girl’s server** and working to create engaging and efficient bot features.
+📱 **Customization Projects**  
+I’m interested in designing unique layouts and themes for mobile devices. Recently, I’ve been working on creating custom themes for my phone, taking into account details like screen resolution, widget layout, and overall user experience. 
 
-📱 **Customization Projects** - I like creating unique layouts, themes, and configurations for my devices. Recently, I’ve been focused on building custom themes and layouts for my phone, taking into account things like screen resolution and widget arrangement.
+## My Goals and Learning Philosophy
 
-## Current Projects
+I believe in hands-on learning. Each project I undertake is an opportunity to apply new skills, gain practical experience, and develop a deeper understanding of the tech world. My approach is to break down complex topics, experiment with small changes, and learn from each mistake. I hope that by sharing my projects here, I can not only document my own progress but also provide resources for others who are on a similar journey.
 
-Here are some of the things I’m working on or plan to share on GitHub:
+## Current and Upcoming Projects
 
-- **Discord Bot Development**: Experimenting with different features for bots in Python and JavaScript to enhance my servers.
-- **Mobile Customization**: Creating layouts and themes optimized for Android devices, including widget placements, icons, and wallpapers.
-- **Learning & Tutorials**: Sharing my notes, projects, and beginner-friendly guides as I learn new technologies.
-- **Gaming Plugins & Mods**: Exploring small mods or plugins for games that can add fun features or enhance gameplay.
+Here are some of the projects I'm currently working on or plan to share soon:
+
+- **Discord Bot Development**: Exploring new functionalities and commands for bots in both Python and JavaScript.
+- **Roblox Game Analysis and Mods**: Researching gameplay elements and developing simple mods to enhance my gaming experience.
+- **Android Themes and Layouts**: Crafting personalized themes for my Redmi Note 13 5G to enhance usability and style.
+- **Documentation & Guides**: Publishing easy-to-follow guides based on my experiences to help others start their own projects.
 
 ## How to Reach Me
 
-💬 **Discord**: I'm zyphralis, and you can also find me on **Gamer's Lounge** at [discord.gg/X5A89zvnmV](https://discord.gg/X5A89zvnmV). Feel free to join and say hello!
+💬 **Discord**: You can connect with me on Discord as **zyphralis**. Feel free to join my server, **Gamer's Lounge**, at [discord.gg/X5A89zvnmV](https://discord.gg/X5A89zvnmV) for discussions, feedback, and collaboration!
 
 ## Contribution and Feedback
 
-I'm always open to feedback and collaboration. If you're interested in working together or have ideas that could improve my projects, feel free to reach out or submit a pull request. Let’s make something awesome together!
+I’m always open to feedback, suggestions, and collaboration. If you’re interested in working on a project together, have ideas for improvement, or just want to connect, don’t hesitate to reach out or submit a pull request. Let’s build something awesome together!
+
+## Thank You for Visiting!
+
+Thank you for stopping by my GitHub profile. I’ll be updating my repositories regularly, so stay tuned for new projects and insights. Whether you're here to browse, learn, or collaborate, I appreciate your time and interest in my work.
 
 ---
 
-Thank you for visiting my GitHub profile. Stay tuned for more updates, projects, and experiments!
-
----
-
-*Made with 💻 by Matthew (zyphralis)*
+*Made with 💻 and passion by Matthew (zyphralis)*
